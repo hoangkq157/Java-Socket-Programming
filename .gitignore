@@ -1,0 +1,11 @@
+# Compiled class files
+*.class
+
+# Eclipse build output folder
+/bin/
+
+# Eclipse workspace metadata (khi vô tình đặt workspace trùng thư mục project)
+/.metadata/
+
+# Log files
+*.log
